@@ -1,9 +1,9 @@
 -👋 Hi, I’m @adev-t
 
--🌱 Currently learning the essentials of web development
+-🌱 Currently in the rabbithole of unix-porn
 
--🔧 Exploring frontend technologies
+-🔧 Exploring rust and svelte
 
--🚀 Excited to build and collaborate on open-source projects
+-🚀 Excited to build OS type shii
 
 -📧 contact me... advaitsingh.55@gmail.com
