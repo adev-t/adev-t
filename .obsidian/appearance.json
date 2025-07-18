@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Catppuccin",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "CaskaydiaCove"
+  ],
+  "textFontFamily": "Courier",
+  "interfaceFontFamily": "Courier"
+}

@@ -1,0 +1,282 @@
+{
+  "main": {
+    "id": "52b0f96f2b7cf70b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7951ce7b63713c6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4be50be5b4843b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Svelte & SvelteKit/Svelte/1.2 $derived.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "1.2 $derived"
+            }
+          },
+          {
+            "id": "bfdf8eadf62b8ce4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Svelte & SvelteKit Notes/Svelte/1.1 $state.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1 $state"
+            }
+          },
+          {
+            "id": "e68f19c1a6c096b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "README.md"
+            }
+          },
+          {
+            "id": "0c677deb9686a0d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Svelte & SvelteKit/Svelte/1.3 $effect.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "1.3 $effect"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ccb55596240de438",
+    "type": "split",
+    "children": [
+      {
+        "id": "73231a0e1ed088eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa5e7eeedc96eb87",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1ff37bf2d253fa9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "94da4f2798bc7370",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271.01103591918945
+  },
+  "right": {
+    "id": "91b3f90ac092eb95",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e5a1599a3170003",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83dfc19dd67865f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Svelte & SvelteKit/Svelte/1.1 $state.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1.1 $state"
+            }
+          },
+          {
+            "id": "e5f27564247078d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00_log/12-Jul-2025.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 12-Jul-2025"
+            }
+          },
+          {
+            "id": "38d67e5849f27598",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f0d45da12051c088",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00_log/12-Jul-2025.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 12-Jul-2025"
+            }
+          },
+          {
+            "id": "159f351f18f7e6cb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e68f19c1a6c096b8",
+  "lastOpenFiles": [
+    "Svelte & SvelteKit Notes/Svelte/1.1 $state.md",
+    "README.md.md",
+    "Untitled",
+    "Svelte & SvelteKit Notes/Svelte/01. Runes.md",
+    "Svelte & SvelteKit Notes/Svelte/00. Overview.md",
+    "Svelte & SvelteKit Notes/Svelte/02. Template Syntax.md",
+    "Svelte & SvelteKit Notes/Svelte/1.2 $derived.md",
+    "Svelte & SvelteKit Notes/Svelte/1.3 $effect.md",
+    "Svelte & SvelteKit Notes/Svelte/1.7 $host.md",
+    "Svelte & SvelteKit Notes/Svelte/1.6 $inspect.md",
+    "Svelte & SvelteKit Notes/Svelte/1.5 $bindable.md",
+    "Svelte & SvelteKit Notes/Svelte/1.4 $props.md",
+    "Svelte & SvelteKit/Svelte/01. Runes/01. Runes.md",
+    "Svelte & SvelteKit/Svelte/01. Runes",
+    "Svelte & SvelteKit Notes/SvelteKit",
+    "Svelte & SvelteKit Notes/Svelte",
+    "00_log/16-Jul-2025.md",
+    "Svelte & SvelteKit Notes",
+    "01_Goals/Goals - sem2.md",
+    "00_log/14-Jul-2025.md",
+    "Untitled 1.md",
+    "00_log/13-Jul-2025.md",
+    "03_Projects/YouTube Automation.md",
+    "01_Goals/03 YouTube/Content Automation.md",
+    "03_Projects/Scientific Post Automation.md",
+    "01_Goals/00 Rust SE/Roadmap to Senior Rust & Blockchain Developer.pdf",
+    "01_Goals/00 Rust SE/Rust SE.md",
+    "01_Goals/00 Rust SE/Rust SE - Road Map.md",
+    "01_Goals/01 Electronics/Electronics and Computer engg..md",
+    "01_Goals/01 Electronics/EnC - Road Map.md",
+    "03_Projects/Omniscient.md",
+    "03_Projects/3D printed keychains.md",
+    "copilot-custom-prompts",
+    "06_Archive/Summer Goals.canvas",
+    "04_Areas/daily",
+    "04_Areas/weekly",
+    "01_Goals/04 Design/Sethi/Posts",
+    "01_Goals/04 Design/Thumbnails/learn/biSDXFDNMtI-HD.jpg",
+    "01_Goals/04 Design/Thumbnails/learn/6DIpP8DTE8k-HD.jpg",
+    "01_Goals/04 Design/Thumbnails/learn/4maJty0vQjI-HD.jpg",
+    "01_Goals/04 Design/Thumbnails/learn/youtube_thumbnail_maxres (17).jpg",
+    "01_Goals/04 Design/Thumbnails/learn/youtube_thumbnail_maxres (16).jpg",
+    "01_Goals/04 Design/Thumbnails/learn/youtube_thumbnail_maxres (15).jpg",
+    "01_Goals/04 Design/Thumbnails/learn/youtube_thumbnail_maxres (14).jpg",
+    "01_Goals/04 Design/Thumbnails/learn/youtube_thumbnail_maxres (13).jpg",
+    "01_Goals/04 Design/Thumbnails/learn/youtube_thumbnail_maxres (12).jpg",
+    "01_Goals/04 Design/Thumbnails/learn/youtube_thumbnail_maxres (11).jpg",
+    "Summer Vacation.canvas",
+    "Academics.canvas"
+  ]
+}

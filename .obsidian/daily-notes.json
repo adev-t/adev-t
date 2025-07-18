@@ -1,0 +1,6 @@
+{
+  "folder": "00_log",
+  "template": "05_Archive/Templates/log",
+  "format": "DD-MMM-YYYY",
+  "autorun": true
+}
